@@ -3,11 +3,11 @@ package com.es.eoi.ExerciseOne;
 public class Maths {
 
 	public static void main(String[] args) {
-		
-		double a = Double.valueOf(args[0]);
-		double b = Double.valueOf(args[1]);
-		double c = Double.valueOf(args[2]);
-		double d = Double.valueOf(args[3]);
+		// TODO Auto-generated method stub
+		double a = 5;
+		double b = 6;
+		double c = 3;
+		double d = 4;
 		
 		double operation = (a/b) * (c/d);
 		
