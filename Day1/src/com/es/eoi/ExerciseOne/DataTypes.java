@@ -1,16 +1,16 @@
 package com.es.eoi.ExerciseOne;
 
 public class DataTypes {
-	String name = "Manuel";
-	String surname = "Coronado";
-	int birthDay = 31;
-	int birthMonth = 12;
-	int birthYear = 1995;
-	String city = "Mutxamel, Alicante";
-	int age = 23;
-	boolean study = true;
-	boolean work = false;
-	char sex = 'M';
+	private String name = "Manuel";
+	private String surname = "Coronado";
+	private int birthDay = 31;
+	private int birthMonth = 12;
+	private int birthYear = 1995;
+	private String city = "Mutxamel, Alicante";
+	private int age = 23;
+	private boolean study = true;
+	private boolean work = false;
+	private char sex = 'M';
 	
 	public DataTypes() {
 		
