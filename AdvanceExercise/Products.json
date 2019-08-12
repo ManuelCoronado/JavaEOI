@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Tomates",
+    "description": "Color rojo",
+    "tax": 20,
+    "price": 1.0,
+    "availableProducts": 100.0,
+    "soldProducts": 10.0,
+    "cat": "Alimentacion",
+    "category": "ALIMENTACION"
+  },
+  {
+    "id": 0,
+    "name": "tomates verdes",
+    "description": "color verde",
+    "tax": 10,
+    "price": 1.0,
+    "availableProducts": 100.0,
+    "soldProducts": 10.0,
+    "cat": "alimentacion",
+    "category": "ALIMENTACION"
+  }
+]
